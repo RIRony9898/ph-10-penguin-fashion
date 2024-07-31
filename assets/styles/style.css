@@ -1,0 +1,23 @@
+.chk {
+    border: 2px solid red;
+}
+
+/* Bebas neue font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bebas-font {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.primary-color {
+    color: #363958;
+}
+
+.secondary-color {
+    color: #FABE4C;
+}
+
+.display-container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
